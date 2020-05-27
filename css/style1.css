@@ -1,0 +1,184 @@
+body{
+    text-align: center;
+    margin:0;
+    font-family: 'Merriweather', serif;
+    }
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #3b6978;
+    line-height: 2;
+}
+#proo{
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #3b6978;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #679b9b;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #679b9b;
+}
+.topContainer{
+    background-color: #a4c5c6;
+    position: relative;
+    padding-top: 190px;
+    
+}
+:link{
+    color: #679b9b;
+
+}
+    
+
+:visited{
+    color: #11999E;
+}
+    
+.topCloud{
+    position: absolute;
+    right:400px;
+    top: 70px;
+}
+.bottomCloud{
+    position: absolute;
+    left:400px;
+    bottom:300px;
+}
+.pro{
+    text-decoration: underline;
+}
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+
+}
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.cook{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container{
+    background-color: #a4c5c6;;
+}
+
+#boo{
+    color: #EAF6F6;
+}
+
+
+.classname {
+	background-color:transparent;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #19ab90;
+	display:inline-block;
+	color:#1b91a3;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #a4c5c6;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+    
+.classname:hover {
+    border: solid #63B7AF 1px;
+    background: #D4EBD0;
+    background-image: -webkit-linear-gradient(top, #D4EBD0, #A4C5C6);
+    background-image: -moz-linear-gradient(top, #D4EBD0, #A4C5C6);
+    background-image: -ms-linear-gradient(top, #D4EBD0, #A4C5C6);
+    background-image: -o-linear-gradient(top, #D4EBD0, #A4C5C6);
+    background-image: linear-gradient(to bottom, #D4EBD0, #A4C5C6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #d1cebd;
+    width: 5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*.p1{
+    clear: left;
+}
+.p2{
+    clear: right;
+}
+To show Clear property which is opposite of Float property.
+
+
+
+
+.topContainer{
+    height: 200px;
+    width: 200px;
+    background-color: #a4c5c6;
+    padding: 20px;
+    border: 10px;
+    border-style: solid;
+}
+.middleContainer{
+    height: 200px;
+    width: 200px;
+    background-color: #d4ebd0;
+    border: 20px;
+    border-style: solid;
+    margin-left: 260px;
+}
+.bottomContainer{
+    height: 200px;
+    width: 200px;
+    background-color: #fde2e2;
+    border: 10px;
+    border-style: solid;
+    margin-left: 500px;
+}*/
